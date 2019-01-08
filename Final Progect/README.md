@@ -2,7 +2,6 @@
 
 ## Synopsis
 The program is a definition test. When the program is ran it will give a printout asking the user what list they would like. After you enter a list it will proceed to give the test. After the test is over it will print out a score.
-< image src = Screen Shot 2019-01-08 at 10.06.04 AM.png />
 
 ## Motivation
 This progect was created for an into to programming class. I chose to do this specific progect because when I was younger I didnt have a very large vocabulary. This made it hard when writting becuase i didnt know what words to use, so I created this progect to help people learn some simple definitions. 

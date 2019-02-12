@@ -44,4 +44,4 @@ class Exercise_7_15 {
 		}
 		return result;
 	}
-}
+} 
